@@ -1,4 +1,5 @@
-//taken from jadix9's code it yourself tetris video
+// taken from jadix9's code it yourself tetris video
+// https://www.youtube.com/watch?v=8OK8_tHeCIA
 
 #include<iostream>
 #include <Windows.h>
